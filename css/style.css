@@ -1,0 +1,48 @@
+
+body{
+    background-color: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+
+}
+.container{
+    width: 60%;
+    height: 65%;
+    background-color: #24353f;
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0);
+    
+}
+
+.container h1{
+    color: #17a2b8;
+    ;
+}
+.container #myName{
+    background-color: transparent;
+    border: 1px solid #ced4da; 
+}
+.container #myEmail{
+    background-color: transparent;
+    border: 1px solid #ced4da;  
+
+}
+.container #myPassword{
+
+    background-color: transparent;
+    border: 1px solid #ced4da;  
+}
+.container ::placeholder{
+    color: #ced4da ;
+}
+.container p{
+    color: white;
+}
+.container p a{
+    color: white;
+    margin-left: 5px;
+}
+
+
+
+.showBox{
+    display: none;
+}
